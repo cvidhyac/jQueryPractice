@@ -1,0 +1,19 @@
+.striped_table_style {
+  border : 1px solid #000;
+}
+
+.oddRow { background-color : #ffcc00; }
+.evenRow { background-color : #cccccc; }
+
+
+
+.highlight {
+           background-color : #f0f0f0;
+}
+
+.ul {
+   list-style:none;
+   padding : 0;
+   margin :0;
+
+}
